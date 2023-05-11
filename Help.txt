@@ -1,0 +1,45 @@
+***********************************************************                                 	User Guide Manual to use Hand gesture for Morse Code         
+***********************************************************                         
+               Computer Programming II Project
+
+  Mechatronics & Control Engineering Department UET Lahore
+                                                    Title:   --- Morse Code Converter ---
+***********************************************************
+Morse Code for the English Alphabets are as follow:
+***********************************************************
+A -> .-
+B -> -...
+C -> -.-.
+D -> -..
+E -> .
+F -> ..-.
+G -> --.
+H -> ....
+I -> ..
+J -> .---
+K -> -.-
+L -> .-..
+M -> --
+N -> -.
+O -> ---
+P -> .--.
+Q -> --.-
+R -> .-.
+S -> ...
+T -> -
+U -> ..-
+V -> ...-
+W -> .--
+X -> -..-
+Y -> -.--
+Z -> --..
+
+***********************************************************
+Developed By:
+Muhammad Hamza Waheed & Madha Siddiqui
+***********************************************************
+                         						             -----Instructions-----
+
+>> Always keep the "HandTrackingModule.py" in the same folder as the main program.
+
+>> Keep the video in a folder having the same name as the video name and keep it inside the working folder.
